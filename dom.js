@@ -1,4 +1,3 @@
-/*
 // q1 i)
 var elm1 = document.getElementById("main-content");
 console.log(elm1);
@@ -23,7 +22,6 @@ elm5.value = "nouman";
 
 elm6 = document.getElementById("email")
 elm6.value = "Noumanabdulrauf@Gmail.com";
-*/
 
 // q2 i
 var x = document.getElementById("form-content").nodeType;
